@@ -1,2 +1,2 @@
 # Calculator-
-It's just a python calculator.
+Простенький калькулятор на Python. Создавался при помощи PyQt5 и QT Designer`а.
